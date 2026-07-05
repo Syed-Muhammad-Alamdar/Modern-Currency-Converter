@@ -63,3 +63,7 @@ Codes.js      → Currency and country code mapping
 
 GitHub:
 https://github.com/Syed-Muhammad-Alamdar
+
+## 🌐 Live Demo
+
+https://currency-converter-alamdar.netlify.app/
