@@ -39,6 +39,8 @@ style.css     → Styling
 app.js        → API requests & conversion logic
 
 Codes.js      → Currency and country code mapping
+
+647cad90-33df-4e1a-8d3e-6d411477c051.jpg Background image
 ```
 
 ---
